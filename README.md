@@ -35,7 +35,7 @@ This dashboard provides a clear view of sales trends, profit performance, and se
 - Country-wise profit comparison  
 - Profit trend by year  
 - KPI indicators for profitability  
-- Tooltip insights for deeper analysis  
+
 
 ---
 
@@ -52,8 +52,8 @@ This dashboard provides a clear view of sales trends, profit performance, and se
 ✔ Interactive filters & slicers  
 ✔ KPI performance indicators  
 ✔ Clean & professional UI design  
-✔ Tooltip insights for detailed analysis  
-✔ Business-focused storytelling  
+
+ 
 
 ---
 
